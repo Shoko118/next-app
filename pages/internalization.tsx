@@ -43,7 +43,7 @@ export default function Internalization(_props: InferGetStaticPropsType<typeof g
   }
   return (
     <div>
-      <h1>i18n-Next</h1>
+      <h1>i18n-Next page</h1>
 
       <h2>Button Onclick</h2>
       {languages.map((lang, index) => (
